@@ -1,0 +1,17 @@
+id = def6167d-7564-4118-944b-5f2638e01698
+
+[relations]
+
+[relations.collections]
+rootDirectory = collections
+files[] = {"id":"784efcda-ed4c-4491-a4c0-a26470a67400","path":"Twitter API v2.postman_collection.json","metaData":{}}
+files[] = {"id":"ae7221fa-1f78-48e9-bff0-4efcb9b2c874","path":"APIExc_895907-ae7221fa-1f78-48e9-bff0-4efcb9b2c874.json","metaData":{}}
+files[] = {"id":"af101060-1b26-4dec-9ac8-8a501c0f647b","path":"Google_895907-af101060-1b26-4dec-9ac8-8a501c0f647b.json","metaData":{}}
+files[] = {"id":"961950b5-3f9a-43fc-abd4-c806440ce037","path":"WorkspaceCollection2_895907-961950b5-3f9a-43fc-abd4-c806440ce037.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
