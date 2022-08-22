@@ -1,38 +1,61 @@
 {
-	"type": "collection",
-	"name": "WorkspaceCollection2",
+	"owner": "895907",
+	"uid": "895907-895907-e00495e6-5779-43a8-992c-331db702e00c",
+	"foldersOrder": [],
+	"variables": [],
 	"id": "895907-e00495e6-5779-43a8-992c-331db702e00c",
-	"_attributes": {
-		"flags": {
-			"id": "e00495e6-5779-43a8-992c-331db702e00c"
-		}
-	},
-	"isPending": false,
-	"isDeleting": false,
-	"_foldersOrder": [],
-	"_pendingFoldersOrder": [],
-	"_order": [],
-	"_pendingOrder": [],
-	"initialVariables": null,
-	"events": null,
+	"name": "WorkspaceCollection2",
+	"description": null,
+	"order": [
+		"4d49e587-28ab-42cd-9910-b71e0fe4bf70"
+	],
+	"folders_order": [],
 	"auth": null,
 	"protocolProfileBehavior": {},
-	"description": null,
 	"createdAt": "2022-08-17T14:20:19.000Z",
-	"publishedData": [],
-	"isForked": false,
-	"isPublic": false,
-	"isEditable": true,
-	"isDeletable": true,
-	"isArchived": false,
-	"isFavorite": false,
-	"isShareable": true,
-	"userCanCreateMock": true,
-	"userCanCreateMonitor": true,
-	"owner": "895907",
-	"foldersOrder": [],
-	"order": [],
+	"events": null,
+	"options": {
+		"type": "readWrite"
+	},
+	"meta": {
+		"parent": {
+			"type": "api",
+			"id": "def6167d-7564-4118-944b-5f2638e01698",
+			"apiVersionId": "3a581890-de61-439d-ae97-667caa1b05e9",
+			"mode": {
+				"name": "branch",
+				"value": "master"
+			}
+		}
+	},
 	"folders": [],
-	"requests": [],
-	"variables": null
+	"requests": [
+		{
+			"owner": "895907",
+			"uid": "895907-4d49e587-28ab-42cd-9910-b71e0fe4bf70",
+			"id": "4d49e587-28ab-42cd-9910-b71e0fe4bf70",
+			"name": "New Request",
+			"description": "",
+			"method": "GET",
+			"data": null,
+			"dataOptions": null,
+			"dataMode": null,
+			"headerData": null,
+			"folder": "",
+			"collection": "895907-e00495e6-5779-43a8-992c-331db702e00c",
+			"auth": null,
+			"queryParams": [],
+			"pathVariableData": [],
+			"url": "bing.com",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"createdAt": null,
+			"events": null,
+			"responses_order": [],
+			"responses": [],
+			"headers": "",
+			"pathVariables": {}
+		}
+	]
 }
