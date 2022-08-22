@@ -1,10 +1,10 @@
 {
 	"type": "collection",
-	"name": "WorkspaceCollection2",
-	"id": "895907-961950b5-3f9a-43fc-abd4-c806440ce037",
+	"name": "DemoCollection2",
+	"id": "895907-e1e2f031-5e55-4e21-96cb-a39b701d47ef",
 	"_attributes": {
 		"flags": {
-			"id": "961950b5-3f9a-43fc-abd4-c806440ce037"
+			"id": "e1e2f031-5e55-4e21-96cb-a39b701d47ef"
 		}
 	},
 	"isPending": false,
@@ -12,7 +12,7 @@
 	"_foldersOrder": [],
 	"_pendingFoldersOrder": [],
 	"_order": [
-		"cf808019-fc6d-41ab-9d23-9eedad95035c"
+		"bb0ec18a-9a7d-4ffd-b65b-1f61d789e08b"
 	],
 	"_pendingOrder": [],
 	"initialVariables": null,
@@ -20,7 +20,7 @@
 	"auth": null,
 	"protocolProfileBehavior": {},
 	"description": null,
-	"createdAt": "2022-08-19T11:19:12.000Z",
+	"createdAt": "2022-08-17T14:20:43.000Z",
 	"publishedData": [],
 	"isForked": false,
 	"isPublic": false,
@@ -34,18 +34,18 @@
 	"owner": "895907",
 	"foldersOrder": [],
 	"order": [
-		"895907-cf808019-fc6d-41ab-9d23-9eedad95035c"
+		"895907-bb0ec18a-9a7d-4ffd-b65b-1f61d789e08b"
 	],
 	"folders": [],
 	"requests": [
 		{
 			"type": "request",
-			"id": "895907-cf808019-fc6d-41ab-9d23-9eedad95035c",
+			"id": "895907-bb0ec18a-9a7d-4ffd-b65b-1f61d789e08b",
 			"name": "New Request",
 			"method": "GET",
 			"_folderId": "",
 			"_isDeleting": false,
-			"_collectionId": "961950b5-3f9a-43fc-abd4-c806440ce037",
+			"_collectionId": "e1e2f031-5e55-4e21-96cb-a39b701d47ef",
 			"isPending": false,
 			"url": "google.com",
 			"_postman_local_files": [],
@@ -61,13 +61,13 @@
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
-			"createdAt": 1661141648000,
-			"updatedAt": 1661141648000,
+			"createdAt": 1661141106000,
+			"updatedAt": 1661141114000,
 			"_responsesOrder": [],
 			"_pendingResponsesOrder": [],
 			"owner": "895907",
 			"folder": null,
-			"collection": "895907-961950b5-3f9a-43fc-abd4-c806440ce037",
+			"collection": "895907-e1e2f031-5e55-4e21-96cb-a39b701d47ef",
 			"responsesOrder": [],
 			"responses": []
 		}

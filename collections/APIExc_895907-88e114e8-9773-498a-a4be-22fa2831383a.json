@@ -1,10 +1,10 @@
 {
 	"type": "collection",
 	"name": "APIExc",
-	"id": "895907-ae7221fa-1f78-48e9-bff0-4efcb9b2c874",
+	"id": "895907-88e114e8-9773-498a-a4be-22fa2831383a",
 	"_attributes": {
 		"flags": {
-			"id": "ae7221fa-1f78-48e9-bff0-4efcb9b2c874"
+			"id": "88e114e8-9773-498a-a4be-22fa2831383a"
 		}
 	},
 	"isPending": false,
@@ -18,7 +18,7 @@
 	"auth": null,
 	"protocolProfileBehavior": {},
 	"description": null,
-	"createdAt": "2022-08-19T11:24:08.000Z",
+	"createdAt": "2022-08-02T07:44:24.000Z",
 	"publishedData": [],
 	"isForked": false,
 	"isPublic": false,

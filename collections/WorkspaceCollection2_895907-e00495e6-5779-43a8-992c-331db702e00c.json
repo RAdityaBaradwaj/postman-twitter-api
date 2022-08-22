@@ -1,10 +1,10 @@
 {
 	"type": "collection",
-	"name": "APIExc",
-	"id": "895907-ae7221fa-1f78-48e9-bff0-4efcb9b2c874",
+	"name": "WorkspaceCollection2",
+	"id": "895907-e00495e6-5779-43a8-992c-331db702e00c",
 	"_attributes": {
 		"flags": {
-			"id": "ae7221fa-1f78-48e9-bff0-4efcb9b2c874"
+			"id": "e00495e6-5779-43a8-992c-331db702e00c"
 		}
 	},
 	"isPending": false,
@@ -18,7 +18,7 @@
 	"auth": null,
 	"protocolProfileBehavior": {},
 	"description": null,
-	"createdAt": "2022-08-19T11:24:08.000Z",
+	"createdAt": "2022-08-17T14:20:19.000Z",
 	"publishedData": [],
 	"isForked": false,
 	"isPublic": false,
