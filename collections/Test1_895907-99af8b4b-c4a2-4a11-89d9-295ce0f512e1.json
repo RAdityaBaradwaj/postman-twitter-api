@@ -1,7 +1,6 @@
 {
 	"type": "collection",
 	"name": "Test1",
-	"id": "895907-99af8b4b-c4a2-4a11-89d9-295ce0f512e1",
 	"_attributes": {
 		"permissions": {
 			"userCanUpdate": true,
