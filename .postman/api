@@ -1,10 +1,9 @@
-id = fe01d15c-2f65-4c90-b73a-fe86efc92743
+id = afb1efd2-63e4-45a6-ba30-1d42ba724c65
 
 [relations]
 
 [relations.collections]
 rootDirectory = collections
-files[] = {"id":"784efcda-ed4c-4491-a4c0-a26470a67400","path":"Twitter API v2.postman_collection.json","metaData":{}}
 files[] = {"id":"895907-99af8b4b-c4a2-4a11-89d9-295ce0f512e1","path":"Test1_895907-99af8b4b-c4a2-4a11-89d9-295ce0f512e1.json","metaData":{}}
 files[] = {"id":"895907-c60dfa33-c7d2-434a-a9ea-ab24f3470906","path":"Test2_895907-c60dfa33-c7d2-434a-a9ea-ab24f3470906.json","metaData":{}}
 
