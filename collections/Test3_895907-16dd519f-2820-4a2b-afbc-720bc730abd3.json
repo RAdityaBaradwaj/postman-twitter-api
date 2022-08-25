@@ -16,10 +16,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "amazon.in",
+					"raw": "bing.com",
 					"host": [
-						"amazon",
-						"in"
+						"bing",
+						"com"
 					]
 				}
 			},
