@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "8079c1db-c2af-484c-a922-5c24a60cf812",
+		"name": "APITest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "497726-8079c1db-c2af-484c-a922-5c24a60cf812"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "65af31c9-dffa-4dc2-9094-d9e2614b61af",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "bing.com",
+					"host": [
+						"bing",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "27043c48-6861-4484-92ce-cb0334835b5f",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "6279208c-13df-444b-897c-174b5e46cfb5",
+				"type": "text/javascript",
+				"exec": [
+					"console.log(\"hello\")"
+				]
+			}
+		}
+	]
+}
