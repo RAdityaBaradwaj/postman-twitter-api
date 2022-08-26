@@ -16,36 +16,14 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "bing.com",
+					"raw": "amazon.com",
 					"host": [
-						"bing",
+						"amazon",
 						"com"
 					]
 				}
 			},
 			"response": []
-		}
-	],
-	"event": [
-		{
-			"listen": "prerequest",
-			"script": {
-				"id": "27043c48-6861-4484-92ce-cb0334835b5f",
-				"type": "text/javascript",
-				"exec": [
-					""
-				]
-			}
-		},
-		{
-			"listen": "test",
-			"script": {
-				"id": "6279208c-13df-444b-897c-174b5e46cfb5",
-				"type": "text/javascript",
-				"exec": [
-					"console.log(\"hello\")"
-				]
-			}
 		}
 	]
 }
