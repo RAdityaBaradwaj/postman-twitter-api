@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "6997aaff-062d-48ed-91fb-0162a0b49627",
-		"name": "New Collection",
+		"_postman_id": "e7728a04-6dc7-42bd-93f4-ce0a30e4382e",
+		"name": "Final test",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "895907-6997aaff-062d-48ed-91fb-0162a0b49627"
+		"_uid": "895907-e7728a04-6dc7-42bd-93f4-ce0a30e4382e"
 	},
 	"item": [
 		{
 			"name": "New Request",
-			"id": "1f2a516b-e36b-46fc-9a66-7850241a72de",
+			"id": "8eead091-bcbc-4212-a3d1-6674b0363272",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -16,9 +16,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "yahoo.com",
+					"raw": "bing.com",
 					"host": [
-						"yahoo",
+						"bing",
 						"com"
 					]
 				}
