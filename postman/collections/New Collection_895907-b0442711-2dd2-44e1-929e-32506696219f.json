@@ -16,9 +16,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "yahoo.com",
+					"raw": "bing.com",
 					"host": [
-						"yahoo",
+						"bing",
 						"com"
 					]
 				}
